@@ -1,0 +1,1 @@
+## Домашнее задание к занятию 1.1. «Введение в тестирование ПО. Методы и виды тестирования» - [решение](https://docs.google.com/document/d/1ZQNmzXjAJJz5x-fYSo_4dMaDQzTt8G3ZV6UwEAzuH1U/edit?usp=sharing)
